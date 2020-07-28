@@ -1,0 +1,68 @@
+/*-----------s link------------*/
+.link{
+	padding: 10px;
+	border: 2px solid #000;
+}
+/*---------------e link-------------------*/
+.all{
+			
+			background-color: #F3F3F3;
+			border: 2px solid #444;
+			padding-bottom: 50px;
+		}
+			.form{
+				width: 350px;
+				position: relative;
+				top:20px;
+				left:400px;
+			}
+
+			/*--------------row 1-----------------*/
+			.txtbox{
+		margin-bottom: 10px;
+			}
+			/*--------------row 2-----------------*/
+
+			.chkbox{
+				display: inline;
+				
+			}
+			.q_pass{
+				margin-left: 50px;
+			}
+			/*--------------row 3-----------------*/
+
+			.row6{
+				text-align-last:center;
+			}
+			.submit{
+				margin: 10px;
+				width:auto;
+				padding:10px;
+				
+				background-color:#041752;
+				
+				
+			}
+			.row6> a{
+					text-decoration:none;
+			        color: aliceblue;
+			}
+			/*--------------row 4-----------------*/
+			.r7{
+				text-align-last: center;
+			}
+			.row7{
+				display: inline;
+			}
+			.row7 .sign1{
+				
+				text-decoration: none;
+				color: #000;
+			}
+			.sign2{ 
+				font-size: 20px;
+				text-decoration: none;
+				color: #01B5BD;
+			}
+			/*--------------end style-----------------*/
